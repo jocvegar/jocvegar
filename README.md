@@ -1,7 +1,5 @@
-### Hi there 👋
-
 <p align="center">
-  <img src="https://media.giphy.com/media/5svXsyhscMiQw/giphy.gif" alt="Sublime's custom image"/>
+  <img src="https://media.giphy.com/media/Rk9F8WDxXheof4flX1/giphy.gif" alt="Me"/>
 </p>
 
 
