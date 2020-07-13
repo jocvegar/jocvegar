@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/XZZjpPdHfHwSlwBkof/giphy.gif" alt="Me"/>
+  <img src="https://media.giphy.com/media/PlV0zV9zx5su3KCIvQ/giphy.gif" alt="Me"/>
 </p>
 
-![ME](https://media.giphy.com/media/XZZjpPdHfHwSlwBkof/giphy.gif)
+![ME](https://media.giphy.com/media/PlV0zV9zx5su3KCIvQ/giphy.gif)
 
 
 
