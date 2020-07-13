@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 <p align="center">
-  ![alt text](https://media.giphy.com/media/5svXsyhscMiQw/giphy.gif)
+  <img src="https://media.giphy.com/media/5svXsyhscMiQw/giphy.gif" alt="Sublime's custom image"/>
 </p>
+
 
 <!--
 **jocvegar/jocvegar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
