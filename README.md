@@ -4,15 +4,15 @@
   <img src="https://media.giphy.com/media/cLMZTpbA3ppJEZUefk/giphy.gif" alt="Me"/>
 </p>
 
-- 👨🏾‍💻  I’m currently working as developer for [SafetySpot](https://safetyspot.com/)
-- 💻  I’m currently learning Vue among many things!
-- 👀  I’m looking to collaborate on your next project 😊
+- 👨🏾‍💻   I’m currently working as developer for [SafetySpot](https://safetyspot.com/)
+- 💻   I’m currently learning Vue among many things!
+- 👀   I’m looking to collaborate on your next project 😊
 
 <hr>
 
 <details><summary>Some Stats!</summary> <br>
   
-![Github stats](https://github-readme-stats.vercel.app/api?username=jocvegar&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=jocvegar&show_icons=true&hide=["contribs"])
 
 
 <!--
