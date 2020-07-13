@@ -4,9 +4,9 @@
   <img src="https://media.giphy.com/media/cLMZTpbA3ppJEZUefk/giphy.gif" alt="Me"/>
 </p>
 
-- 👨🏾‍💻 I’m currently working as developer for [SafetySpot](https://safetyspot.com/)
-- 💻 I’m currently learning Vue among many things!
-- 👀 I’m looking to collaborate on your next projec :)
+- 👨🏾‍💻  I’m currently working as developer for [SafetySpot](https://safetyspot.com/)
+- 💻  I’m currently learning Vue among many things!
+- 👀  I’m looking to collaborate on your next project 😊
 
 <hr>
 
