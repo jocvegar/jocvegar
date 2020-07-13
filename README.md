@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/Rk9F8WDxXheof4flX1/giphy.gif" alt="Me"/>
+  <img src="https://media.giphy.com/media/MXu04Uma0ubZjGbqES/giphy.gif" alt="Me"/>
 </p>
 
+![ME](https://media.giphy.com/media/MXu04Uma0ubZjGbqES/giphy.gif)
 
 <!--
 **jocvegar/jocvegar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
