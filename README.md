@@ -4,7 +4,9 @@
   <img src="https://media.giphy.com/media/cLMZTpbA3ppJEZUefk/giphy.gif" alt="Me"/>
 </p>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=jocvegar)
+
+<details><summary>Stats!</summary>
+![Github stats](https://github-readme-stats.vercel.app/api?username=jocvegar&show_icons=true)
 
 
 <!--
