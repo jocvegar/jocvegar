@@ -1,6 +1,6 @@
-[![Linkedin Badge](https://img.shields.io/badge/-jocvegar-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/jose-carlos-vega/)](https://linkedin.com/in/jose-carlos-vega/)
-[![Website Badge](https://img.shields.io/badge/-heka-hnd.web.app-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://heka-hnd.web.app/)](https://heka-hnd.web.app/)
-[![Gmail Badge](https://img.shields.io/badge/-jocvegar-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jocvegar@gmail.com)](mailto:jocvegar@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-jocvegar-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/jose-carlos-vega/)](https://linkedin.com/in/jose-carlos-vega/)
+[![Website](https://img.shields.io/badge/-jessicalim.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://heka-hnd.web.app/)](https://heka-hnd.web.app/)
+[![Gmail](https://img.shields.io/badge/-jocvegar-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jocvegar@gmail.com)](mailto:jocvegar@gmail.com)
 
 <p align="center">
   <img src="https://media.giphy.com/media/cLMZTpbA3ppJEZUefk/giphy.gif" alt="Me"/>
