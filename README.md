@@ -1,6 +1,5 @@
 [![Linkedin](https://img.shields.io/badge/-jocvegar-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/jose-carlos-vega/)](https://linkedin.com/in/jose-carlos-vega/)
-[![Website](https://img.shields.io/badge/-hekahnd.web.app-black?style=flat&logo=Google-Chrome&logoColor=white&link=https://heka-hnd.web.app/)](https://heka-hnd.web.app/)
-[![Website](https://img.shields.io/badge/-jose-vega.netlify.app-black?style=flat&logo=Google-Chrome&logoColor=white&link=https://jose-vega.netlify.app/)](https://jose-vega.netlify.app/)
+[![Website](https://img.shields.io/badge/-portfolio-black?style=flat&logo=Google-Chrome&logoColor=white&link=https://jose-vega.netlify.app/)](https://jose-vega.netlify.app/)
 [![Gmail](https://img.shields.io/badge/-jocvegar-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jocvegar@gmail.com)](mailto:jocvegar@gmail.com)
 
 <p align="center">
